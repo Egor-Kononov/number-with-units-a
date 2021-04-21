@@ -1,12 +1,8 @@
 #include "doctest.h"
 #include "NumberWithUnits.hpp"
-#include <iostream>
 #include <fstream>
-#include <sstream>
-#include <ctime>
-#include <stdexcept>
 #include <string>
-#include <vector>
+
 
 using namespace ariel;
 using namespace std;
